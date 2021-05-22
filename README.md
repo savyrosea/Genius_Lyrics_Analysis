@@ -4,7 +4,7 @@
 ### Saturday, May 22nd:
   - Data Cleaning: Dates to Datetime :heavy_check_mark:
   - Data Cleaning: Get Artist Gender from Text :heavy_check_mark:
-  - Data Cleaning: Get Artist Age from Text
+  - Data Cleaning: Get Artist Age from Text :heavy_check_mark:
   - Data Cleaning: Bring in Song Genre
   - Pre-Process Text for N-Grams
  
