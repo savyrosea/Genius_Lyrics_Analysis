@@ -6,7 +6,7 @@
   - Data Cleaning: Get Artist Gender from Text :heavy_check_mark:
   - Data Cleaning: Get Artist Age from Text :heavy_check_mark:
   - Data Cleaning: Bring in Song Genre
-  - Pre-Process Text for N-Grams
+  - Pre-Process Text for N-Grams :heavy_check_mark:
  
 ### Sunday, May 23rd:
   - Pre-Process Text for N-grams (get rid of repitition in songs?)
