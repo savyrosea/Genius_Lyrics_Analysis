@@ -25,7 +25,7 @@
   - Use NLP to "Create" a pop song
  
 ### Sunday, May 30th:
-  - Gensim Topic or LDA Analysis
+  - Gensim Topic or LDA Analysis (If time)
   
 ### Tuesday, June 1st:
   - Publish Plotly Interactive Plots
