@@ -35,15 +35,15 @@
 ### Thursday, June 3rd:
   - Wrap up Google Site 
   - Make Presentation
-  -
+  
 ### Saturday, June 5th: 
   - Internal Demos
-  - 
+  
 ### Sunday, June 6th: 
   - Make Final Adjustments
-  - 
+  
 ### Tuesday, June 8th: 
   - Make Final Adjustments
-  - 
+  
 ### Thursday, June 10th: 
   - Demo Day
