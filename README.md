@@ -11,6 +11,7 @@
 ### Sunday, May 23rd:
   - Pre-Process Text for N-grams (get rid of repitition in songs?)
   - N-Gram Analysis
+  
         - by gender :heavy_check_mark:
         
         - by age 
