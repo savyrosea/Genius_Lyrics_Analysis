@@ -10,7 +10,10 @@
  
 ### Sunday, May 23rd:
   - Pre-Process Text for N-grams (get rid of repitition in songs?)
-  - N-Gram Analysis: examine by gender/age/genre
+  - N-Gram Analysis
+        - by gender
+        - by age 
+        - by genre
   
 ### Tuesday, May 25th:
   - Profanity-Check Library
