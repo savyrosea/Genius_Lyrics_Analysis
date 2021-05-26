@@ -11,8 +11,9 @@
  
 ### Sunday, May 23rd:
   - Pre-Process Text for N-grams (get rid of repitition in songs?) :heavy_check_mark:
-  - N-Gram Analysis
-        - by gender :heavy_check_mark: - by age :heavy_check_mark: - by genre ❌
+  - N-Gram Analysis by gender :heavy_check_mark: 
+  - N-Gram Analysis by age :heavy_check_mark: 
+  - N-Gram Analysis by genre ❌
   
 ### Tuesday, May 25th:
   - Profanity-Check Library :heavy_check_mark:
