@@ -6,18 +6,21 @@
   - Data Cleaning: Get Artist Gender from Text :heavy_check_mark:
   - Data Cleaning: Get Artist Age from Text :heavy_check_mark:
   - Data Cleaning: Get Rid of Songs Not in English :heavy_check_mark:
-  - Data Cleaning: Bring in Song Genre
+  - Data Cleaning: Bring in Song Genre ❌
   - Pre-Process Text for N-Grams :heavy_check_mark:
  
 ### Sunday, May 23rd:
-  - Pre-Process Text for N-grams (get rid of repitition in songs?)
+  - Pre-Process Text for N-grams (get rid of repitition in songs?) :heavy_check_mark:
   - N-Gram Analysis
-        - by gender :heavy_check_mark: - by age :heavy_check_mark: - by genre 
+        - by gender :heavy_check_mark: - by age :heavy_check_mark: - by genre ❌
   
 ### Tuesday, May 25th:
-  - Profanity-Check Library
-  - Get Profain % by song
-  - Get Profain % by Artist
+  - Profanity-Check Library :heavy_check_mark:
+  - Create Binary Column for if Song has Profanity or Not :heavy_check_mark:
+  - Get Profain Probability % by Song :heavy_check_mark:
+  - Get Profain Probability % by Artist :heavy_check_mark:
+  - Get Profain Probability % by Artist Gender :heavy_check_mark:
+  - Get Profain Probability % by Artist Age :heavy_check_mark:
   - Look for Correlations
   
 ### Thursday, May 26th:
