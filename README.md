@@ -16,8 +16,9 @@
   
 ### Tuesday, May 25th:
   - Profanity-Check Library :heavy_check_mark:
-  - Get Profain % by song :heavy_check_mark:
-  - Get Profain % by Artist
+  - Create Binary Column for if Song has Profanity or Not :heavy_check_mark:
+  - Get Profain Probability % by Song :heavy_check_mark:
+  - Get Profain Probability % by Artist
   - Look for Correlations
   
 ### Thursday, May 26th:
