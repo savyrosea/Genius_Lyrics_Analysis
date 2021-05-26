@@ -10,7 +10,7 @@
   - Pre-Process Text for N-Grams :heavy_check_mark:
  
 ### Sunday, May 23rd:
-  - Pre-Process Text for N-grams (get rid of repitition in songs?)
+  - Pre-Process Text for N-grams (get rid of repitition in songs?) :heavy_check_mark:
   - N-Gram Analysis
         - by gender :heavy_check_mark: - by age :heavy_check_mark: - by genre ❌
   
