@@ -15,8 +15,8 @@
         - by gender :heavy_check_mark: - by age :heavy_check_mark: - by genre ❌
   
 ### Tuesday, May 25th:
-  - Profanity-Check Library
-  - Get Profain % by song
+  - Profanity-Check Library :heavy_check_mark:
+  - Get Profain % by song :heavy_check_mark:
   - Get Profain % by Artist
   - Look for Correlations
   
