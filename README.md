@@ -6,13 +6,13 @@
   - Data Cleaning: Get Artist Gender from Text :heavy_check_mark:
   - Data Cleaning: Get Artist Age from Text :heavy_check_mark:
   - Data Cleaning: Get Rid of Songs Not in English :heavy_check_mark:
-  - Data Cleaning: Bring in Song Genre
+  - Data Cleaning: Bring in Song Genre ❌
   - Pre-Process Text for N-Grams :heavy_check_mark:
  
 ### Sunday, May 23rd:
   - Pre-Process Text for N-grams (get rid of repitition in songs?)
   - N-Gram Analysis
-        - by gender :heavy_check_mark: - by age :heavy_check_mark: - by genre 
+        - by gender :heavy_check_mark: - by age :heavy_check_mark: - by genre ❌
   
 ### Tuesday, May 25th:
   - Profanity-Check Library
