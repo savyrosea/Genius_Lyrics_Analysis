@@ -12,7 +12,7 @@
 ### Sunday, May 23rd:
   - Pre-Process Text for N-grams (get rid of repitition in songs?)
   - N-Gram Analysis
-        - by gender :heavy_check_mark: - by age - by genre 
+        - by gender :heavy_check_mark: - by age :heavy_check_mark: - by genre 
   
 ### Tuesday, May 25th:
   - Profanity-Check Library
