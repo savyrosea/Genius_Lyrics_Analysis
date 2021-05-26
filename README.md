@@ -18,7 +18,9 @@
   - Profanity-Check Library :heavy_check_mark:
   - Create Binary Column for if Song has Profanity or Not :heavy_check_mark:
   - Get Profain Probability % by Song :heavy_check_mark:
-  - Get Profain Probability % by Artist
+  - Get Profain Probability % by Artist :heavy_check_mark:
+  - - Get Profain Probability % by Artist Gender :heavy_check_mark:
+  - - Get Profain Probability % by Artist Age :heavy_check_mark:
   - Look for Correlations
   
 ### Thursday, May 26th:
