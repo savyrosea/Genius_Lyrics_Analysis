@@ -21,7 +21,7 @@
   - Get Profain Probability % by Artist :heavy_check_mark:
   - Get Profain Probability % by Artist Gender :heavy_check_mark:
   - Get Profain Probability % by Artist Age :heavy_check_mark:
-  - Look for Correlations
+  - Look for Correlations :heavy_check_mark:
   
 ### Thursday, May 26th:
   - Sentiment Analysis by Artist (VADER/ Sentiment Changes in a Song/ NRC lexicon)
