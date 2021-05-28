@@ -29,7 +29,7 @@
   - Create Function to get Numeric Values for Emotions Attached to Each Song :heavy_check_mark:
   - Sentiment Analysis by Song :heavy_check_mark:
   - Sentiment Analysis by Artist :heavy_check_mark:
-  - Sentiment Analysis by Artist Gender 
+  - Sentiment Analysis by Artist Gender :heavy_check_mark:
   - Sentiment Analysis by Artist Age
 
 ### Saturday, May 29th:
