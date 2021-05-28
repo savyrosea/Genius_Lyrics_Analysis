@@ -25,7 +25,12 @@
   - Look for Correlations :heavy_check_mark:
   
 ### Thursday, May 26th:
-  - Sentiment Analysis by Artist (VADER/ Sentiment Changes in a Song/ NRC lexicon)
+  - Sentiment Analysis by Artist (NRC lexicon) :heavy_check_mark:
+  - Create Function to get Numeric Values for Emotions Attached to Each Song :heavy_check_mark:
+  - Sentiment Analysis by Song :heavy_check_mark:
+  - Sentiment Analysis by Artist :heavy_check_mark:
+  - Sentiment Analysis by Artist Gender 
+  - Sentiment Analysis by Artist Age
 
 ### Saturday, May 29th:
   - Use NLP to "Create" a pop song (probabilistic Bigram or Trigram Model or GPT-2 Model)
