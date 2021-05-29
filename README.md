@@ -33,7 +33,8 @@
   - Sentiment Analysis by Artist Age :heavy_check_mark:
 
 ### Saturday, May 29th:
-  - Use NLP to "Create" a pop song (probabilistic Bigram or Trigram Model or GPT-2 Model)
+  - Use NLP to "Create" a pop song (probabilistic Bigram or Trigram Model or GPT-2 Model) ❌
+  - Create pop song lyrics using statistics (probabilty of words that follow each other) :heavy_check_mark:
  
 ### Sunday, May 30th:
   - Gensim Topic or LDA Analysis (If time)
