@@ -37,10 +37,11 @@
   - Create pop song lyrics using statistics (probabilty of words that follow each other) :heavy_check_mark:
  
 ### Sunday, May 30th:
-  - Gensim Topic or LDA Analysis (If time)
+  - Gensim Topic or LDA Analysis (If time) ❌
   
 ### Tuesday, June 1st:
-  - Publish Plotly Interactive Plots
+  - Artist Sentiment Negative to Positive on a -1 to 1 Scale
+  - Hugging Face to Enhance Lyric Generation 
   - Set up Google Sites
   - Bring in Artist Photos or Album Artwork
   
