@@ -1,4 +1,34 @@
 # Genius_Lyrics_Analysis
+### 1. Gathering the Data
+### 2. Data Cleaning and EDA
+### 3. N-Grams
+### 4. Profanity Analysis
+### 5. Sentiment Analysis
+### 6. Generate a Pop Song
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Game Plan:
 ### Saturday, May 22nd:
