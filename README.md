@@ -18,7 +18,7 @@ View the Final Lyrics Analysis Here: https://sites.google.com/view/geniuslyricsc
 - Artist Birth Date
 - 
 <p float="left">
-  <img src="https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/agehist.png" width="350" />
+  <img src="https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/agehist.png" width="300" />
 </p>
 - Text Preprocessing
 
@@ -30,12 +30,14 @@ View the Final Lyrics Analysis Here: https://sites.google.com/view/geniuslyricsc
 - Profanity By Artist
 
 - Profanity By Gender
-
-![](https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/prof.png)
+<p float="left">
+  <img src="hhttps://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/prof.png" width="350" />
+</p>
 
 - Profanity By Age
-
-![](https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/profLine.png)
+<p float="left">
+  <img src="https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/profLine.png" width="450" />
+</p>
 
 ### 5. Sentiment Analysis
 - VADER (Positive Vs. Negative)
