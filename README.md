@@ -41,9 +41,7 @@ I also cut down on repetition in songs as it would skew my n-gram results and I 
 </p>
 
 ### 5. Sentiment Analysis
-- VADER (Positive Vs. Negative)
-- 
-- NRC Lexicon
+- In order to explore artist sentiment I used VADER (Positive Vs. Negative) Sentiment analysis to determine how positive and how negative earch artists lyrics were given a corpus of 15 of their songs. I also used NRC Lexicon to create a artist finger print based on the emotion reflected in their lyric corpus.
 
 <p float="left">
   <img src="https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/sad1.png" width="250" />
