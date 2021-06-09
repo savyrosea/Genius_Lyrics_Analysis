@@ -50,5 +50,6 @@ I also cut down on repetition in songs as it would skew my n-gram results and I 
 </p>
 
 ### 6. Generate a Pop Song
-- Probability Model
-- PEGASUS Summarization Model
+- Probability Model: The first model I created uses probability and given a starting word writes a song based on the words most likely to follow that word given other songs.
+- PEGASUS Summarization Model: This model creates a summary of pop song summaries in an attempt to create a new pop song.
+- Check out the site link at the top of the readme to view the lyrics my models created!
