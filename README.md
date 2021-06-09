@@ -39,7 +39,13 @@
 - 
 ![](https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/sad1.png)
 
-![](https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/surprise1.png)
+![](https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/surprise3.png)
+
+
+<p float="left">
+  <img src="https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/sad1.png" width="250" />
+  <img src="https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/surprise1.png" width="250" />
+</p>
 
 ### 6. Generate a Pop Song
 - Probability Model
