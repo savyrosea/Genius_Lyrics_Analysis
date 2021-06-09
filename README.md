@@ -10,13 +10,16 @@ View the Final Lyrics Analysis Here: https://sites.google.com/view/geniuslyricsc
 ### 2. Data Cleaning
 
 - Gender
-- 
-![](https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/genderbar.png)
+
+<p float="left">
+  <img src="https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/genderbar.png" width="350" />
+</p>
 
 - Artist Birth Date
 - 
-![](https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/agehist.png)
-
+<p float="left">
+  <img src="https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/agehist.png" width="350" />
+</p>
 - Text Preprocessing
 
 ### 3. N-Grams
