@@ -34,7 +34,7 @@ I also cut down on repetition in songs as it would skew my n-gram results and I 
 - In order to determine which phrases were occuring the most often, I used sklearn to find the top bi-grams for artists by gender and age. There was not a noticable difference between the male and female bi-grams. But the phrase "I don't know" occurs more and more often with younger artists.
 
 ### 4. Profanity Analysis
-- Profanity By Artist
+- Using Python;s Profanity-Check Libray I analysed how profanity impacts popular music. With males swearing more than females and younger artists swearing more than older.
 
 - Profanity By Gender
 <p float="left">
