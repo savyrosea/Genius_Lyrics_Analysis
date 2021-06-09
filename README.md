@@ -18,7 +18,7 @@ View the Final Lyrics Analysis Here: https://sites.google.com/view/geniuslyricsc
 - Artist Birth Date
 - 
 <p float="left">
-  <img src="https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/agehist.png" width="300" />
+  <img src="https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/agehist.png" width="290" />
 </p>
 - Text Preprocessing
 
