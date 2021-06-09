@@ -1,5 +1,7 @@
 # Genius_Lyrics_Analysis
 
+A summary of my Project can be found here: https://sites.google.com/view/geniuslyricscapstone
+
 ### 1. Gathering the Data
 - Billboard Top 100
 - Genius API
