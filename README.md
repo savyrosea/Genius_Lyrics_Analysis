@@ -12,18 +12,23 @@ View the Final Lyrics Analysis Here: https://sites.google.com/view/geniuslyricsc
 
 ### 2. Data Cleaning
 
-- Gender
+- Artist gender was scraped from the artist's description text. If the text referred to the artists with he/him the artist was marked as male and if the artist was referred to as she/her the artist was marked as female. A list of non-binary artists was used to overwrite the few non-binary artists with their correct gender. The remaining artists were assumed to be a group and have a Null value for gender.
 
 <p float="left">
   <img src="https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/genderbar.png" width="350" />
 </p>
 
-- Artist Birth Date
+- Artist Birth Date was scraped as the first 4 digit number following the artists name. In the artist description the birth year is in a consistant format following the artist name.
 - 
 <p float="left">
   <img src="https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/agehist.png" width="290" />
 </p>
-- Text Preprocessing
+
+- From here I started preprocessing the text data for further use in n-grams and sentiment analysis. I remove stopwords (except for in lyric generating models) and removed cues in lyrics indicating who was singing or the part of the song.
+
+Examples: [Verse 1:], [Chorus], (Post Malone), (Ariana Grande)
+
+I also cut down on repetition in songs as it would skew my n-gram results and I removed numbers and other unusual characters.
 
 ### 3. N-Grams
 - Top 2 Word Phrases by Gender and Age
