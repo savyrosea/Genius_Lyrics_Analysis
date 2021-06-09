@@ -1,5 +1,56 @@
 # Genius_Lyrics_Analysis
 
+### 1. Gathering the Data
+- Billboard Top 100
+- Genius API
+- Number of Artists and Songs
+
+### 2. Data Cleaning
+- Gender
+- Artist Birth Date
+- Text Preprocessing
+
+### 3. N-Grams
+- Top 2 Word Phrases by Gender and Age
+- Top Word By Decade
+
+### 4. Profanity Analysis
+- Profanity By Artist
+- Profanity By Gender
+- Profanity By Age
+
+### 5. Sentiment Analysis
+- VADER (Positive Vs. Negative)
+- NRC Lexicon
+
+### 6. Generate a Pop Song
+- Probability Model
+- PEGASUS Summarization Model
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Game Plan:
 ### Saturday, May 22nd:
   - Data Cleaning: Dates to Datetime :heavy_check_mark:
