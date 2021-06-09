@@ -19,7 +19,7 @@ View the Final Lyrics Analysis Here: https://sites.google.com/view/geniuslyricsc
 </p>
 
 - Artist Birth Date was scraped as the first 4 digit number following the artists name. In the artist description the birth year is in a consistant format following the artist name.
-- 
+
 <p float="left">
   <img src="https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/agehist.png" width="290" />
 </p>
@@ -31,8 +31,7 @@ Examples: [Verse 1:], [Chorus], (Post Malone), (Ariana Grande)
 I also cut down on repetition in songs as it would skew my n-gram results and I removed numbers and other unusual characters.
 
 ### 3. N-Grams
-- Top 2 Word Phrases by Gender and Age
-- Top Word By Decade
+- In order to determine which phrases were occuring the most often, I used sklearn to find the top bi-grams for artists by gender and age. There was not a noticable difference between the male and female bi-grams. But the phrase "I don't know" occurs more and more often with younger artists.
 
 ### 4. Profanity Analysis
 - Profanity By Artist
