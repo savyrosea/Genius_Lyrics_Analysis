@@ -2,6 +2,11 @@
 
 View the Final Lyrics Analysis Here: https://sites.google.com/view/geniuslyricscapstone
 
+### 0. Data Questions
+- What do aspects such as amount of profanity and common phrases tell us about today's music?
+- What emotions/ sentiments are most commonly communicated in today's popular music?
+- Can we create a model that will generate new lyrics given a corpus of lyrics?
+
 ### 1. Gathering the Data
 - Billboard Top 100
 - Genius API
