@@ -34,7 +34,12 @@
 
 ### 5. Sentiment Analysis
 - VADER (Positive Vs. Negative)
+- 
 - NRC Lexicon
+- 
+![](https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/sad1.png)
+
+![](https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/surprise1.png)
 
 ### 6. Generate a Pop Song
 - Probability Model
