@@ -23,8 +23,14 @@
 
 ### 4. Profanity Analysis
 - Profanity By Artist
+
 - Profanity By Gender
+
+![](https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/prof.png)
+
 - Profanity By Age
+
+![](https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/profLine.png)
 
 ### 5. Sentiment Analysis
 - VADER (Positive Vs. Negative)
