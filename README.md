@@ -7,7 +7,9 @@
 
 ### 2. Data Cleaning
 - Gender
+![](https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/genderbar.png)
 - Artist Birth Date
+![](https://github.com/savyrosea/Genius_Lyrics_Analysis/blob/main/pictures/agehist.png)
 - Text Preprocessing
 
 ### 3. N-Grams
